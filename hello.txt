@@ -1,3 +1,6 @@
 
 f1
 samina
+ssamina
+hello 
+f2
